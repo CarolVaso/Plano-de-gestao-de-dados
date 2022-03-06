@@ -1,1 +1,3 @@
 # Plano de gestão de dados
+
+2.4) Descrever como o Plano de Gestão de Dados está sendo seguido e eventuais modificações. Quando do envio do Relatório Cientifico Final, o Bolsista deverá fornecer um link para uma página Web que descreva como acessar os dados disponibilizados pelo projeto, conforme descrito no Plano de Gestão de Dados vigente. Tal informação pode ser fornecida desde o primeiro Relatório Científico, sendo obrigatória no envio do Relatório Científico Final. (até 2 páginas) (somente para bolsas de Mestrado, Doutorado, Doutorado Direto e Pós-Doutorado solicitadas a partir de 01/09/2020).
